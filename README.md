@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
@@ -22,9 +23,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/lmarcho" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true" />
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
