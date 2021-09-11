@@ -19,9 +19,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true" /> 
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&count_private=true)](https://github.com/lmarcho/github-readme-stats)
-
 </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&count_private=true)](https://github.com/lmarcho/github-readme-stats)
 
 <p align="center">
   <a href="https://dev.to/lmarcho">
