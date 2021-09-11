@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&title_color=333&text_color=777" alt="Lmarcho's Stats" >
-  </a>
-  <a href="https://github.com/lmarcho" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true" /> 
   </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&theme=tokyonight&layout=compact)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&count_private=true)](https://github.com/lmarcho/github-readme-stats)
 
 </p>
 
