@@ -50,9 +50,6 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://lmarcho.com">
-    <img src="https://badges.pufler.dev/visits/lmarcho/puf17640?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://lmarcho.com">
     <img src="https://badges.pufler.dev/years/lmarcho?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://lmarcho.com">
