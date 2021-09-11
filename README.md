@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true" /> 
   </a>
-    <a href="https://github.com/lmarcho" class="rich-diff-level-one">
+    <a href="https://github.com/lmarcho" class="rich-diff-level-two">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&theme=tokyonight" /> 
   </a>
 </p>
