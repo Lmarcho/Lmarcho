@@ -55,9 +55,6 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/repos/lmarcho?style=flat-square&color=black&logo=github&a=0">
   </a>
   <a href="https://lmarcho.com">
-    <img src="https://badges.pufler.dev/gists/lmarcho?style=flat-square&color=black&logo=github&a=0">
-  </a>
-  <a href="https://lmarcho.com">
     <img src="https://badges.pufler.dev/commits/monthly/lmarcho?style=flat-square&color=black&logo=github&a=0">
   </a>
 </p>
