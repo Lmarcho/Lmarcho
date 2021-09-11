@@ -22,9 +22,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" /> 
   </a>
 </p>
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <a href="https://dev.to/lmarcho">
