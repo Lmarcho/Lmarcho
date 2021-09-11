@@ -1,4 +1,5 @@
 ### Hello, folks! 👋
+## I'm Lmarcho 👨‍💻 
 
 <!--
 **Lmarcho/Lmarcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - - 🔭 Working at [NeSolax](https://neosolax.com)
-- - 👨🏻‍🎓 I’m graduated from [SLIIT] (https://sliit.lk)
+- - 👨🏻‍🎓 I’m graduated from [SLIIT](https://sliit.lk)
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
