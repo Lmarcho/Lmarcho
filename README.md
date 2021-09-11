@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- - 🔭 Working at [NeSolax](https://neosolax.com)
+- - 👨🏻‍🎓 I’m graduated from [SLIIT] (https://sliit.lk)
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=lmarcho&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" /> 
   </a>
     <a href="https://github.com/lmarcho" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&theme=dark" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarcho&layout=compact&theme=tokyonight" /> 
   </a>
 </p>
 
