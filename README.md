@@ -2,7 +2,7 @@
 ## I'm Lmarcho 👨‍💻 
 
 - - 🔭 Working at [NeSolax](https://neosolax.com)
-- - 👨🏻‍🎓 I’m graduated from [SLIIT](https://sliit.lk)
+- - 👨🏻‍🎓 I’m graduated from [SLIIT](https://www.sliit.lk/)
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
@@ -30,7 +30,7 @@
     <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/lakshitha-d-f-m-a-671978a2">
+  <a href="https://www.linkedin.com/in/lmarcho/">
     <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
   </a>
   <br><br>
