@@ -1,11 +1,13 @@
-### Hello, folks! 👋
-## I'm Lmarcho 👨‍💻
 
-- 💼 Working as a **Senior Software Engineer** at [EFutures Private Limited](https://www.efuturesworld.com)
-- 🎓 Graduated from [SLIIT](https://www.sliit.lk/)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=300&color=0FF7C6&center=true&width=1000&lines=Hey+there!👋+I'm+Lakshitha+👨‍💻;Senior+Software+Engineer+at+EFutures+🔧;AWS+Cloud+Pro+☁️;I+don’t+just+write+code%2C+I+engineer+eCommerce+experiences+🛒💥;Welcome+to+my+GitHub+profile!" />
+</h3>
+
 - 🔭 I’m currently working on **Magento AI Admin Assistant** with Claude + MCP
 - 🌱 I’m learning **Payload CMS**, **TypeScript**, and **Kubernetes**
 - 💬 Ask me about Magento 2, Laravel, Python or AWS
+- 💼 Working as a **Senior Software Engineer** at [EFutures Private Limited](https://www.efuturesworld.com)
+- 🎓 Graduated from [SLIIT](https://www.sliit.lk/)
 
 <p align="center">
   <a href="https://github.com/lmarcho" class="rich-diff-level-one">
@@ -20,16 +22,16 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/l_marcho">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28px" />
-  </a>
-  &emsp;
   <a href="https://lmarcho.com">
     <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/lmarcho/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
+  </a>
+  &emsp;
+  <a href="https://instagram.com/l_marcho">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28px" />
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
