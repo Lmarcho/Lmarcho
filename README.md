@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://instagram.com/l_marcho">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="28px" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="28px" />
   </a>
   &emsp;
   <a href="https://lmarcho.com">
