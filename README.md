@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://instagram.com/l_marcho">
-    <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="28px" />
   </a>
   &emsp;
   <a href="https://lmarcho.com">
@@ -23,7 +23,7 @@
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/lmarcho/">
-    <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28px" />
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
