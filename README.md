@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Magento AI Admin Assistant** with Claude + MCP
 - 🌱 I’m learning **Payload CMS**, **TypeScript**, and **Kubernetes**
 - 💬 Ask me about Magento 2, Laravel, Python or AWS
-- 💼 Working as a **Senior Software Engineer** at [EFutures Private Limited](https://www.efuturesworld.com)
+- 💼 Working as a **Senior Software Engineer** at [Azbow (Pvt) Ltd](https://www.azbow.com)
 - 🎓 Graduated from [SLIIT](https://www.sliit.lk/)
 
 <p align="center">
